@@ -1,2 +1,30 @@
 # Framework.lv.git
  Framework.lv.git
+#WTYKAMC@2023框架<br>
+
+##【简介】<br>
+
+这是一个基于队列的灵活状态机，可以满足队列元素先进先出，先进后出，后进后出，后进先出，可以清除队列中未执行完的状态，且有一个默认超时执行状态；通过超时时间可以改变超时分支的执行频率。
+
+通过快速放置代码块可以直接应用程序框架模板，非常简单方便。<br>
+
+##【安装】<br>
+
+将软件包放置于如下路径：<br>
+
+C:\Program Files\National Instruments\LabVIEW 2016\user.lib
+![](/imgs/0.png)<br>
+ 【使用方法】
+
+新建一个vi——>右键浏览到并点击WTYK_AMC_Framwork.vi
+![](/imgs/1.png)<br>
+ 将会实现框架代码块的快速放置；
+![](/imgs/2.png)<br>
+
+##【源码链接】<br>
+
+链接：https://pan.baidu.com/s/1YHYKE5-k7rds8EeZf2u_vA?pwd=irbp<br>
+提取码：irbp<br>
+
+二维码：<br>
+![](/imgs/3.png)<br>
